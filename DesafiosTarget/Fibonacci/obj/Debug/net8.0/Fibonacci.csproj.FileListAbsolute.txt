@@ -1,0 +1,14 @@
+E:\Desafios Target\DesafiosTarget\Fibonacci\bin\Debug\net8.0\Fibonacci.exe
+E:\Desafios Target\DesafiosTarget\Fibonacci\bin\Debug\net8.0\Fibonacci.deps.json
+E:\Desafios Target\DesafiosTarget\Fibonacci\bin\Debug\net8.0\Fibonacci.runtimeconfig.json
+E:\Desafios Target\DesafiosTarget\Fibonacci\bin\Debug\net8.0\Fibonacci.dll
+E:\Desafios Target\DesafiosTarget\Fibonacci\bin\Debug\net8.0\Fibonacci.pdb
+E:\Desafios Target\DesafiosTarget\Fibonacci\obj\Debug\net8.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desafios Target\DesafiosTarget\Fibonacci\obj\Debug\net8.0\Fibonacci.AssemblyInfoInputs.cache
+E:\Desafios Target\DesafiosTarget\Fibonacci\obj\Debug\net8.0\Fibonacci.AssemblyInfo.cs
+E:\Desafios Target\DesafiosTarget\Fibonacci\obj\Debug\net8.0\Fibonacci.csproj.CoreCompileInputs.cache
+E:\Desafios Target\DesafiosTarget\Fibonacci\obj\Debug\net8.0\Fibonacci.dll
+E:\Desafios Target\DesafiosTarget\Fibonacci\obj\Debug\net8.0\refint\Fibonacci.dll
+E:\Desafios Target\DesafiosTarget\Fibonacci\obj\Debug\net8.0\Fibonacci.pdb
+E:\Desafios Target\DesafiosTarget\Fibonacci\obj\Debug\net8.0\Fibonacci.genruntimeconfig.cache
+E:\Desafios Target\DesafiosTarget\Fibonacci\obj\Debug\net8.0\ref\Fibonacci.dll

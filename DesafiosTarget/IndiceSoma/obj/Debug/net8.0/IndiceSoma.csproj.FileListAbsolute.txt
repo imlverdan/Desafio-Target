@@ -1,0 +1,14 @@
+E:\Desafios Target\DesafiosTarget\IndiceSoma\bin\Debug\net8.0\IndiceSoma.exe
+E:\Desafios Target\DesafiosTarget\IndiceSoma\bin\Debug\net8.0\IndiceSoma.deps.json
+E:\Desafios Target\DesafiosTarget\IndiceSoma\bin\Debug\net8.0\IndiceSoma.runtimeconfig.json
+E:\Desafios Target\DesafiosTarget\IndiceSoma\bin\Debug\net8.0\IndiceSoma.dll
+E:\Desafios Target\DesafiosTarget\IndiceSoma\bin\Debug\net8.0\IndiceSoma.pdb
+E:\Desafios Target\DesafiosTarget\IndiceSoma\obj\Debug\net8.0\IndiceSoma.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desafios Target\DesafiosTarget\IndiceSoma\obj\Debug\net8.0\IndiceSoma.AssemblyInfoInputs.cache
+E:\Desafios Target\DesafiosTarget\IndiceSoma\obj\Debug\net8.0\IndiceSoma.AssemblyInfo.cs
+E:\Desafios Target\DesafiosTarget\IndiceSoma\obj\Debug\net8.0\IndiceSoma.csproj.CoreCompileInputs.cache
+E:\Desafios Target\DesafiosTarget\IndiceSoma\obj\Debug\net8.0\IndiceSoma.dll
+E:\Desafios Target\DesafiosTarget\IndiceSoma\obj\Debug\net8.0\refint\IndiceSoma.dll
+E:\Desafios Target\DesafiosTarget\IndiceSoma\obj\Debug\net8.0\IndiceSoma.pdb
+E:\Desafios Target\DesafiosTarget\IndiceSoma\obj\Debug\net8.0\IndiceSoma.genruntimeconfig.cache
+E:\Desafios Target\DesafiosTarget\IndiceSoma\obj\Debug\net8.0\ref\IndiceSoma.dll

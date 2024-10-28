@@ -1,0 +1,14 @@
+E:\Desafios Target\DesafiosTarget\QuantasLetrasA\bin\Debug\net8.0\QuantasLetrasA.exe
+E:\Desafios Target\DesafiosTarget\QuantasLetrasA\bin\Debug\net8.0\QuantasLetrasA.deps.json
+E:\Desafios Target\DesafiosTarget\QuantasLetrasA\bin\Debug\net8.0\QuantasLetrasA.runtimeconfig.json
+E:\Desafios Target\DesafiosTarget\QuantasLetrasA\bin\Debug\net8.0\QuantasLetrasA.dll
+E:\Desafios Target\DesafiosTarget\QuantasLetrasA\bin\Debug\net8.0\QuantasLetrasA.pdb
+E:\Desafios Target\DesafiosTarget\QuantasLetrasA\obj\Debug\net8.0\QuantasLetrasA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desafios Target\DesafiosTarget\QuantasLetrasA\obj\Debug\net8.0\QuantasLetrasA.AssemblyInfoInputs.cache
+E:\Desafios Target\DesafiosTarget\QuantasLetrasA\obj\Debug\net8.0\QuantasLetrasA.AssemblyInfo.cs
+E:\Desafios Target\DesafiosTarget\QuantasLetrasA\obj\Debug\net8.0\QuantasLetrasA.csproj.CoreCompileInputs.cache
+E:\Desafios Target\DesafiosTarget\QuantasLetrasA\obj\Debug\net8.0\QuantasLetrasA.dll
+E:\Desafios Target\DesafiosTarget\QuantasLetrasA\obj\Debug\net8.0\refint\QuantasLetrasA.dll
+E:\Desafios Target\DesafiosTarget\QuantasLetrasA\obj\Debug\net8.0\QuantasLetrasA.pdb
+E:\Desafios Target\DesafiosTarget\QuantasLetrasA\obj\Debug\net8.0\QuantasLetrasA.genruntimeconfig.cache
+E:\Desafios Target\DesafiosTarget\QuantasLetrasA\obj\Debug\net8.0\ref\QuantasLetrasA.dll
